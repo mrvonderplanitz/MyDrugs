@@ -1,6 +1,6 @@
 # MyDrugs
 
-fan site inspired by https://mydrugs.to from the netflix show how to sell drugs online fast
+fan site inspired by https://mydrugs.to from the netflix show how to sell drugs online fast // https://www.netflix.com/is/title/80218448
 
 just html css and js. no frameworks or whatever
 
